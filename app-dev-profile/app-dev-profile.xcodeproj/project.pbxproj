@@ -12,7 +12,6 @@
 		08FEC277243874DF00A36913 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08FEC275243874DF00A36913 /* Main.storyboard */; };
 		08FEC279243874E000A36913 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08FEC278243874E000A36913 /* Assets.xcassets */; };
 		08FEC27C243874E000A36913 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08FEC27A243874E000A36913 /* LaunchScreen.storyboard */; };
-		08FEC2852438ABAC00A36913 /* BorderDevLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08FEC2842438ABAC00A36913 /* BorderDevLogo.swift */; };
 		08FEC2872438ADEA00A36913 /* ImageBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08FEC2862438ADEA00A36913 /* ImageBorder.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +23,6 @@
 		08FEC278243874E000A36913 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08FEC27B243874E000A36913 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08FEC27D243874E000A36913 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		08FEC2842438ABAC00A36913 /* BorderDevLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderDevLogo.swift; sourceTree = "<group>"; };
 		08FEC2862438ADEA00A36913 /* ImageBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBorder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,7 +70,6 @@
 		08FEC2832438AB4500A36913 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				08FEC2842438ABAC00A36913 /* BorderDevLogo.swift */,
 				08FEC2862438ADEA00A36913 /* ImageBorder.swift */,
 			);
 			path = Views;
@@ -152,7 +149,6 @@
 				08FEC274243874DF00A36913 /* ViewController.swift in Sources */,
 				08FEC2872438ADEA00A36913 /* ImageBorder.swift in Sources */,
 				08FEC272243874DF00A36913 /* AppDelegate.swift in Sources */,
-				08FEC2852438ABAC00A36913 /* BorderDevLogo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
